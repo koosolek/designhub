@@ -1,4 +1,4 @@
-=== Design HUb ===
+=== Design Hub ===
 Contributors: Mihkel Ronk
 Requires at least: 6.4
 Tested up to: 6.5
